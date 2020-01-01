@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithLinqExpressions", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqUsingEnumerable", "LinqUsingEnumerable\LinqUsingEnumerable.csproj", "{79BFF47B-1DCC-4380-8F67-B01A422B3F0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemGC", "SystemGC\SystemGC.csproj", "{2A6587C9-B673-4DE7-A925-358224519680}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{79BFF47B-1DCC-4380-8F67-B01A422B3F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79BFF47B-1DCC-4380-8F67-B01A422B3F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79BFF47B-1DCC-4380-8F67-B01A422B3F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A6587C9-B673-4DE7-A925-358224519680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6587C9-B673-4DE7-A925-358224519680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6587C9-B673-4DE7-A925-358224519680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6587C9-B673-4DE7-A925-358224519680}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
