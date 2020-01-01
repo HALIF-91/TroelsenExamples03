@@ -7,4 +7,4 @@ C#5 .NET 4.5 Эндрю Троелсен
 4) LINQ, исследование операций запросов, проект - FunWithLinqExpressions
   (from, in, where, select, join, on, equals, into, orderby, ascending, descending, group, by)
 5) LINQ, построение выражений запросов с сипользованием типа Enumerable и лямбда выражений, анонимных методов а также низкоуровневых делегатов, проект - LinqUsingEnumerable
-  6) 
+6) Принудительный запуск сборщика мусора, проект - SystemGC 
