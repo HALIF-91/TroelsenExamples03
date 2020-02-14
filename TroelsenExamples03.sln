@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAppDomains", "CustomA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectContextApp", "ObjectContextApp\ObjectContextApp.csproj", "{DCE31D80-624E-445A-805D-6EF5CC3E2E20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAsmBuilder", "MyAsmBuilder\MyAsmBuilder.csproj", "{DB8FAA28-941F-4AFB-A3CA-C6DBFEF5CD1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{DCE31D80-624E-445A-805D-6EF5CC3E2E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCE31D80-624E-445A-805D-6EF5CC3E2E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCE31D80-624E-445A-805D-6EF5CC3E2E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB8FAA28-941F-4AFB-A3CA-C6DBFEF5CD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8FAA28-941F-4AFB-A3CA-C6DBFEF5CD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8FAA28-941F-4AFB-A3CA-C6DBFEF5CD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8FAA28-941F-4AFB-A3CA-C6DBFEF5CD1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,6 @@ namespace ObjectContextApp
     {
         public SportsCar()
         {
-
             // Получить информацию о контексте и вывести идентификатор контекста
             Context ctx = Thread.CurrentContext;
             Console.WriteLine("{0} object in context {1}", this.ToString(), ctx.ContextID);

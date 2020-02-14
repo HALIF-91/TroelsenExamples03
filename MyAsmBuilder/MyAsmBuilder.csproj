@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DCE31D80-624E-445A-805D-6EF5CC3E2E20}</ProjectGuid>
+    <ProjectGuid>{DB8FAA28-941F-4AFB-A3CA-C6DBFEF5CD1C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ObjectContextApp</RootNamespace>
-    <AssemblyName>ObjectContextApp</AssemblyName>
+    <RootNamespace>MyAsmBuilder</RootNamespace>
+    <AssemblyName>MyAsmBuilder</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -35,7 +35,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
